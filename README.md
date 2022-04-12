@@ -1,6 +1,6 @@
 
 
-## swintransform roll插件实现
+## swin-transformer roll插件实现
 
 C++ Tensorrt 实现 `pytroch` 中  `torch.roll()` 
 
